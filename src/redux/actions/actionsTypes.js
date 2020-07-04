@@ -1,0 +1,6 @@
+export const ACT_TITLE = "act_title"
+export const ACT_RESP = "act_resp"
+export const ACT_DESC = "act_desc"
+export const ACT_PRIO = "act_prio"
+export const GUARD = "act_guard"
+export const ELIMIN = "elimin"
